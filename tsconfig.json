@@ -20,6 +20,9 @@
     ],
     "paths": {
       "@/*": ["./src/*"],
+      "@lib/*": ["./src/lib/*"],
+      "@shadcn/*": ["./src/components/ui/*"],
+      "@components/*": ["./src/components/*"],
       "@config/*": ["./src/lib/config/*"]
     }
   },
